@@ -1,0 +1,17 @@
+echo "# word-press" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/adovg/word-press.git
+git push -u origin master
+
+Push it
+Add, commit, and push your changes:
+
+git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin master
+
+end
